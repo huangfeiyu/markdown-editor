@@ -1,0 +1,353 @@
+127.0.0.1 - - [02/Feb/2019 11:32:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:32:56] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:32:56] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:32:56] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:32:56] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:32:56] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:32:56] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:32:56] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:32:56] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:32:56] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:33:05] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:33:05] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:05] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:05] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:05] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:06] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:06] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:06] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:06] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:33:28] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:28] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:28] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:33:28] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:28] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:33:37] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:33:37] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:37] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:33:37] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:33:37] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:34:09] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:34:09] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:34:09] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:34:09] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:34:50] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:34:50] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:34:50] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:34:50] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:34:50] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:34:50] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:07] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:07] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:07] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:07] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:07] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:07] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/usr/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/usr/lib/python2.7/SimpleHTTPServer.py", line 235, in <module>
+    test()
+  File "/usr/lib/python2.7/SimpleHTTPServer.py", line 231, in test
+    BaseHTTPServer.test(HandlerClass, ServerClass)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 606, in test
+    httpd = ServerClass(server_address, HandlerClass)
+  File "/usr/lib/python2.7/SocketServer.py", line 417, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 431, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+127.0.0.1 - - [02/Feb/2019 11:35:18] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:18] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:18] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:18] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:18] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:18] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:35:20] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 11:35:20] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:20] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:20] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:20] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:23] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:23] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:23] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:23] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:32] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:32] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:32] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:32] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:32] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:32] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:37] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:37] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:37] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:37] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 11:35:37] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 11:35:37] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:14:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:41] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:41] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:41] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:41] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:45] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:14:45] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:14:46] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:14:46] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:16:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:16:12] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:16:12] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:17:34] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:17:34] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:18:12] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:18:12] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:20:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:01] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:23:01] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:23:40] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:23:40] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:25:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:21] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:21] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:21] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:21] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:21] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:32] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:32] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:32] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:32] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:32] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:25:32] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:25:32] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:25:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:26:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:28:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:29:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:29:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:29:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:29:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:31:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:31:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:31:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:07] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:07] "GET /src/richtext.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:07] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:07] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:07] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:07] "GET /src/jquery.richtext.js HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:11] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:11] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:12] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:12] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:32:14] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 13:32:14] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 13:33:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:33:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 13:33:54] "GET /font-awesome.min.css HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 290, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 318, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 654, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 713, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 283, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 307, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:35:39] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 15:35:39] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 15:42:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:44:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:44:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:45:39] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 15:45:39] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 15:45:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:46:19] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 15:46:19] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 15:50:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:51:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:52:21] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 15:52:21] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 15:53:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET /font-awesome.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:53:13] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 15:53:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 15:54:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 15:54:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:52] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:52] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:52] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:52] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:52] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 16:00:52] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 16:00:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:53] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:53] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:53] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:53] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:53] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 16:00:53] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 16:00:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:54] "GET /css/site.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:54] "GET /richtext.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:54] "GET /jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:54] "GET /jquery.richtext.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:00:54] code 404, message File not found
+127.0.0.1 - - [02/Feb/2019 16:00:54] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [02/Feb/2019 16:03:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Feb/2019 16:04:09] "GET / HTTP/1.1" 200 -

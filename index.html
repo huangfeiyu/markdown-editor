@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Easy Note</title>
+
+        <link rel="stylesheet" href="css/site.css">
+        <link rel="stylesheet" href="richtext.min.css">
+        <script src="jquery.min.js"></script>
+        <script src="jquery.richtext.min.js"></script>
+    </head>
+    <body>
+
+
+        <div class="page-wrapper box-content">
+
+            <textarea id="hidden-texterea" class="content" name="example"></textarea>
+
+        </div>
+
+        <script>
+        $(document).ready(function() {
+            $('.content').richText();
+            var content = localStorage.myMarkdownHereEditor;//decodeURIComponent, encodeURIComponent
+            //console.log(cookie);
+            if(content) {
+                $('div.richText-editor').html(decodeURIComponent(content));
+            }
+            $('div.richText-editor').keyup(function() {
+                //console.log(this.innerHTML);
+                localStorage.myMarkdownHereEditor = encodeURIComponent(this.innerHTML);
+                //console.log(document.cookie);
+            })
+        });
+        </script>
+
+    </body>
+</html>
